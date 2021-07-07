@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![AcFunCard](https://discovery.sunness.dev/852888)
 <!--
 **tamakyi/tamakyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,12 @@
-### AcFun Status↓👋<br/>
+### AcFun Status ↓ 👋<br/>
 ![AcFunCard](https://discovery.sunness.dev/852888)
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=tamakyi&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+### Github Status → 🤣<br/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tamakyi&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+  <br/>
+  Blog: https://blog.tama.guru<br/>
+  Main Page: https://tama.guru
+  <br/>
 <!--
 **tamakyi/tamakyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

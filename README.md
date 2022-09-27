@@ -1,8 +1,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
-### AcFun Status ↓ 👋<br/>
-![AcFunCard](https://discovery.sunness.dev/852888)
   
 ### Github Status → 🤣<br/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tamakyi&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
